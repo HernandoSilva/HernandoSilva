@@ -3,7 +3,6 @@
 - 🔭 Atualmente, atuo na área de back-end
 - 📘 Estudando Análise e Desenvolvimento de Sistemas
 - 🌱 Estudando Java
-- 😄 Pronouns: Ele/Dele
 - ⚡ Fun fact: Gosto de jogar e passar o tempo com meus amigos!
 
  <div>
